@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetShare.Core", "DotnetShare.Core\DotnetShare.Core.csproj", "{C5900513-832C-49C7-BFA1-9B20F50BCCED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetShare.Infrastructure", "DotnetShare.Infrastructure\DotnetShare.Infrastructure.csproj", "{69F33FD3-DBE6-4F81-89A0-C3F9759AB58E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetShare.Infrastructure.EfCore", "DotnetShare.Infrastructure.EfCore\DotnetShare.Infrastructure.EfCore.csproj", "{588A089A-4947-4AF9-B208-490EBF056B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5900513-832C-49C7-BFA1-9B20F50BCCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5900513-832C-49C7-BFA1-9B20F50BCCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5900513-832C-49C7-BFA1-9B20F50BCCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5900513-832C-49C7-BFA1-9B20F50BCCED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F33FD3-DBE6-4F81-89A0-C3F9759AB58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F33FD3-DBE6-4F81-89A0-C3F9759AB58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F33FD3-DBE6-4F81-89A0-C3F9759AB58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F33FD3-DBE6-4F81-89A0-C3F9759AB58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588A089A-4947-4AF9-B208-490EBF056B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588A089A-4947-4AF9-B208-490EBF056B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588A089A-4947-4AF9-B208-490EBF056B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588A089A-4947-4AF9-B208-490EBF056B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
